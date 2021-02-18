@@ -1,5 +1,5 @@
 # Reverse proxy
-* privat.moonstonks.space -> Privatkundenbrokerfrontend (16010)
+* https://privat.moonstonks.space -> Privatkundenbrokerfrontend (16010)
 * Der Rest wird noch konfiguriert
 
 # Docker Container
