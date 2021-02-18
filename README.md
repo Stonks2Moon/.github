@@ -1,6 +1,7 @@
 # Reverse proxy
 * https://privat.moonstonks.space -> Privatkundenbrokerfrontend (16010)
-* Der Rest wird noch konfiguriert
+* https://business.moonstonks.space -> Geschäftskundenbrokerfrontend (16020)
+* https://simulation.moonstonks.space -> Simulationsfrontend (16030)
 
 # Docker Container
 ## Ports:
