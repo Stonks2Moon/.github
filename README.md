@@ -5,7 +5,7 @@
 # Docker Container
 ## Ports:
 * SSH: 16022
-* Wertpapiermarkt - Frontend: 16000
+* Wertpapiermarkt - Backend: 16001
 * Privatkundenbroker - Frontend: 16010
 * Privatkundenbroker - Backend: 16011
 * Geschäftskundenbroker - Frontend: 16020
