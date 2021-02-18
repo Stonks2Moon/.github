@@ -1,6 +1,6 @@
 # Reverse proxy
-privat.broker.tjbn.de -> Privatkundenbrokerfrontend (16010)
-Der Rest wird noch konfiguriert
+* privat.broker.tjbn.de -> Privatkundenbrokerfrontend (16010)
+* Der Rest wird noch konfiguriert
 
 # Docker Container
 ## Ports:
