@@ -1,0 +1,6 @@
+{
+    "name": "Uniform CI/CD Workflow for deploying stonks2moon Applications",
+    "description": "Uniform CI/CD Workflow with Docker build and push setup. Also a Deployment on the Server will be triggered",
+    "iconName": "",
+    "filePatterns": ["^Dockerfile"]
+}
