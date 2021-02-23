@@ -21,3 +21,4 @@ Dies kann auf zwei Arten erledigt, werden die noch evaluiert werden müssen:
 
 1. Hinterlegen eines Webhooks auf Dockerhub, sodass bei jedem neu gepushten Image der Server die Möglichkeit hat dieses zu pullen und bereitzustellen
 2. Direkter Call eines Endpunkts/Direct Acces via SSH auf den Sever, der das neu gepushte Image bereitstellt.
+3. **Einfachste Möglichkeit** Nutzung von [Watchtower](https://containrrr.dev/watchtower/). Watchtower sorgt automatisch dafür, dass nach einem bestimmten Zeitintervall überprüft wird, ob ein neues Image auf Dockerhub vorhanden ist. Im Anschluss wird das Image automatisch gepullt und mit gleicher Konfiguration wie das vorherige bereitgestellt.
