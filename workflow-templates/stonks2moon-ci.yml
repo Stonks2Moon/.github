@@ -20,4 +20,4 @@ jobs:
       with:
           context: .
           push: true
-          tags: stonks2moon/actions-test:${{ github.sha }}
+          tags: stonks2moon/${{ github.event.repository.name }}:${{ github.sha }}
