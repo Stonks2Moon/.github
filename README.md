@@ -1,4 +1,5 @@
 # Reverse proxy
+* https://boersenclient.moonstonks.space -> Boersenclient (16000)
 * https://privat.moonstonks.space -> Privatkundenbrokerfrontend (16010)
 * https://business.moonstonks.space -> Geschäftskundenbrokerfrontend (16020)
 * https://simulation.moonstonks.space -> Simulationsfrontend (16030)
